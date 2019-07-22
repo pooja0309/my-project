@@ -18,7 +18,7 @@ import com.myRetail.restapi.service.ProductNameRetrievalService;
 
 /**
  *
- * @author <b>Rohit Kanwar</b>
+ * @author <b>Pooja</b>
  * <p> A spring controller class to expose rest api. </p>
  */
 @RestController
